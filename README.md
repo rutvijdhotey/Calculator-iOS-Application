@@ -7,3 +7,7 @@ App is a complete reference from the iTunes U Stanford iOS App course :
 Developing iOS 9 Apps with Swift by Paul Hegarty
 
 Calculator.
+
+![Alt text](/Images/1.png)
+
+![Alt text](/Images/2.png)
